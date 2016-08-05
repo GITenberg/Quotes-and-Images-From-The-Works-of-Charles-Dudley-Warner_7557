@@ -1,0 +1,35 @@
+_repo: Quotes-and-Images-From-The-Works-of-Charles-Dudley-Warner_7557
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7557/7557-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images From The Works of Charles Dudley Warner
+url: http://www.gutenberg.org/ebooks/7557
