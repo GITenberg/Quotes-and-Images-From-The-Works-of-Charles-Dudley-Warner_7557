@@ -1,10 +1,8 @@
 _repo: Quotes-and-Images-From-The-Works-of-Charles-Dudley-Warner_7557
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 7557/7557-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Warner, Charles Dudley
@@ -19,6 +17,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7557#Quotes-and-Images-From-The-Works-of-Charles-Dudley-Warner
 gutenberg_issued: '2004-08-28'
 gutenberg_type: Text
 identifiers:
